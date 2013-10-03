@@ -14,7 +14,11 @@ Installation
 
 Install via [pip](http://www.pip-installer.org/)
 
-	pip install git+git://github.com/BUHARDI/facebook.git
+	pip install FacebookGraph
+
+or, with [easy_install](http://pypi.python.org/pypi/setuptools)
+
+	easy_install FacebookGraph
 
 Or, if you want the code that is currently on GitHub
 
